@@ -62,8 +62,3 @@ flowchart TB
 7. **Equipment label printing** — Print QR code labels compatible with Brother label printers using a 24 x 40 mm label size.
 8. **Comprehensive reporting** — Generate reports for equipment, components, stock movements, inventory balance, and asset disposal.
 9. **Responsive user interface** — Optimized for both desktop and mobile devices.
-
-## Version Information
-* Version: 1.0
-* Release: 2026
-* Developer: ahiTEC
