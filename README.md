@@ -2,7 +2,7 @@
 
 > A comprehensive ASP.NET Core MVC solution for managing IT equipment, components, maintenance, repairs, inventory, and full asset lifecycle operations.
 
-👉 [(https://www.ahitec.com/p/phan-mem-quan-ly-thiet-bi-it.html)](https://www.ahitec.com/p/phan-mem-quan-ly-thiet-bi-it.html) 
+👉 [https://www.ahitec.com/p/phan-mem-quan-ly-thiet-bi-it.html](https://www.ahitec.com/p/phan-mem-quan-ly-thiet-bi-it.html) 
 
 ## Overview
 
